@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Ashmira Khan 👋
 
-<!--
-**ashmirakhan269/ashmirakhan269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | Seeking Internship Opportunity
 
-Here are some ideas to get you started:
+I'm a passionate learner from Maharashtra, focused on building my career in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Skills
+- HTML, CSS, JavaScript (Learning)
+- Git & GitHub
+- Problem Solving
+
+#### 🌱 Currently Learning
+- Full Stack Web Development
+- Making portfolio projects
+
+#### 📫 Connect with me
+- GitHub: @ashmirakhan269
+
+⭐️ Open to internship and collaboration!
